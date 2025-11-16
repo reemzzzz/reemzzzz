@@ -30,15 +30,15 @@ I am actively seeking opportunities to expand my expertise in programming langua
 A cutting-edge browser extension featuring the integration of **AI models** for enhanced user focus.
 * **Features:** Text-to-Speech (TTS), Summarization, and Gaze Tracking capabilities.
 * **Technologies:** JavaScript, AI/ML, Chrome API
-* **[VIEW REPOSITORY]**
+* [![Repository Link](https://img.shields.io/badge/VIEW_REPOSITORY-blue?style=flat-square)](https://github.com/maryamkhaled01/Google-Extension-For-Users-With-ADHD.git)
+ ---
 
 **2. E-commerce Frontend Website**
 Developed a responsive and modern e-commerce user interface.
 * **Key Tech:** Built using **React** and styled efficiently with **TailwindCSS**.
 * **Technologies:** React, TailwindCSS, Frontend
-* **[VIEW REPOSITORY]**
-
----
+*  [![Repository Link](https://img.shields.io/badge/VIEW_REPOSITORY-blue?style=flat-square)](https://github.com/reemzzzz/fresh-cart.git)
+  ---
 
 # 📊 GitHub Activity
 ![](https://github-readme-stats.vercel.app/api?username=reemzzzz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
