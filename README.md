@@ -20,14 +20,14 @@ I am actively seeking opportunities to expand my expertise in programming langua
 ### 💡 Featured Projects
 
 **1. Chrome Extension for Focus Tracking**
-A cutting-edge browser extension featuring the integration of **AI models** for enhanced user focus.
+* A cutting-edge browser extension featuring the integration of **AI models** for enhanced user focus.
 * **Features:** Text-to-Speech (TTS), Summarization, and Gaze Tracking capabilities.
 * **Technologies:** JavaScript, AI/ML, Chrome API
 * [![Repository Link](https://img.shields.io/badge/VIEW_REPOSITORY-blue?style=flat-square)](https://github.com/maryamkhaled01/Google-Extension-For-Users-With-ADHD.git)
  ---
 
 **2. E-commerce Frontend Website**
-Developed a responsive and modern e-commerce user interface.
+* Developed a responsive and modern e-commerce user interface.
 * **Key Tech:** Built using **React** and styled efficiently with **TailwindCSS**.
 * **Technologies:** React, TailwindCSS, Frontend
 *  [![Repository Link](https://img.shields.io/badge/VIEW_REPOSITORY-blue?style=flat-square)](https://github.com/reemzzzz/fresh-cart.git)
