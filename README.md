@@ -2,7 +2,7 @@
 
 **Software Engineer | Full-stack Development & AI/ML**
 
-Final year **Computer and Communications Engineering** student at Alexandria University, driven by a passion for innovation and problem-solving.
+ **Computer and Communications Engineering** fresh graduate at Alexandria University, driven by a passion for innovation and problem-solving.
 
 I specialize in building innovative web applications using **JavaScript, React, and Python**, and exploring the power of **Machine Learning** for real-world problems.
 
@@ -15,13 +15,6 @@ I am actively seeking opportunities to expand my expertise in programming langua
 ### 🚀 Core Languages & Web Frameworks
 ### 🧠 Data Science & ML Libraries
 ### 🛠️ Databases & Tools
----
-
-## 💼 Professional Experience Snippet
-
-* **AI Internship (Telecom Egypt):** Gained hands-on experience and deepened understanding of **Machine Learning** concepts by tackling real-world problems.
-* **Internship (AppSoft - Web Application Development):** Enhanced **SQL** skills and gained experience with **Oracle databases**, focusing on data management and optimization for web applications.
-
 ---
 
 ### 💡 Featured Projects
